@@ -34,7 +34,7 @@
                     <div class="mb-3">转帐金额：</div>
                     <div class="mb-3"><input class="form-control form-control-user" type="number" name="trancequery"
                                              placeholder="请输入金额"></div>
-                    <button class="btn btn-primary d-block btn-user w-100" id="submitBtn" type="submit" onClick="return confirm('确定转账吗?');">确认并转账</button>
+                    <button class="btn btn-primary d-block btn-user w-100" id="submitBtn" type="submit" onClick="return confirm('确定转账吗?');">转账</button>
                 </form>
                 <div class="text-center"></div>
 
