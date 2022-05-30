@@ -1,6 +1,5 @@
 package com.xueJL.Dao;
 
-import com.xueJL.Entity.MenuBean;
 import com.xueJL.UtilsTool.JdbcProUtils;
 
 import java.sql.Connection;

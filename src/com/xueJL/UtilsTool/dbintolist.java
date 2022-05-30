@@ -1,6 +1,5 @@
 package com.xueJL.UtilsTool;
 
-import com.xueJL.Entity.MenuBean;
 import com.xueJL.Entity.UserBean;
 
 import java.sql.Connection;
